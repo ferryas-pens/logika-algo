@@ -675,8 +675,6 @@ Pada pertemuan selanjutnya, kita akan mendalami struktur-struktur algoritma yang
 
 ---
 
-*Total kata: ~5000 kata*
-
 **Referensi:**
 - W3Schools Programming Concepts: https://www.w3schools.com/programming/
 - Programiz Algorithm Tutorial: https://www.programiz.com/dsa/algorithm
