@@ -124,9 +124,5 @@ int main() {
 
 ---
 
-📌 Konten Minggu 8 ini sudah bisa dijadikan **materi review + simulasi soal UTS** lengkap dengan pembahasan.
 
----
-
-Apakah Anda ingin saya **kemas materi Minggu 8 ini ke dalam PDF modul ajar**, agar seragam dengan Minggu 5 (dan Bab 1.1–1.2 sebelumnya)?
 
