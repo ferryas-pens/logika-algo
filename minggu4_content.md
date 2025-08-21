@@ -2282,7 +2282,7 @@ Kemampuan untuk work effectively dengan data types dan operators akan memungkink
 
 Ingatlah bahwa **"Good programming is not about knowing every operator atau data type, but about knowing when dan how to use them appropriately."**
 
-Next week, kita akan build upon these foundations untuk explore how to make intelligent decisions dalam our programs using selection structures.
+Minggu depan, kita akan membangun fondasi ini untuk mengeksplorasi cara membuat keputusan cerdas dalam program kita menggunakan struktur seleksi.
 
 **Happy Coding!** 🔢💻
 
