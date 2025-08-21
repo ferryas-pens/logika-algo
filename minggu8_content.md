@@ -1,12 +1,3 @@
-**Review Komprehensif** untuk persiapan **UTS**. Isinya:
-
-1. **Ringkasan Materi Minggu 1–7**.
-2. **Simulasi soal UTS** dengan variasi tipe (teori, algoritma, flowchart, coding).
-3. **Pembahasan soal** secara detail.
-4. **Tips strategi ujian**.
-
----
-
 # **Minggu 8: Review Komprehensif Persiapan UTS**
 
 ---
@@ -138,3 +129,4 @@ int main() {
 ---
 
 Apakah Anda ingin saya **kemas materi Minggu 8 ini ke dalam PDF modul ajar**, agar seragam dengan Minggu 5 (dan Bab 1.1–1.2 sebelumnya)?
+
